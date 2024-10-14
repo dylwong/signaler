@@ -21,8 +21,8 @@ Requirements
 Run the Signaler
 ------------
 ```sh
-git clone REPO_URL
-cd REPO_NAME
+git clone [REPO_URL](https://github.com/dylwong/signaler.git)
+cd signaler
 npm install
 npm start
 ```
